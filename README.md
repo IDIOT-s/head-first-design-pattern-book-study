@@ -20,12 +20,14 @@
     <td align="center"><a href="https://github.com/ch200203"><img src="https://avatars.githubusercontent.com/ch200203" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jinho-yoo-jack"><img src="https://avatars.githubusercontent.com/jinho-yoo-jack" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jucheolkang"><img src="https://avatars.githubusercontent.com/jucheolkang" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/GusersMissin"><img src="https://avatars.githubusercontent.com/GusersMissin" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JHwan96"><b>LeeJooHwan</b></a></td>
     <td align="center"><a href="https://github.com/ch200203"><b>@ch200203</b></a></td>
     <td align="center"><a href="https://github.com/jinho-yoo-jack"><b>@jinho-yoo-jack</b></a></td>
     <td align="center"><a href="https://github.com/jucheolkang"><b>@jucheolkang</b></a></td>
+    <td align="center"><a href="https://github.com/GusersMissin"><b>@GusersMissin</b></a></td>
   </tr>
 </table>
 
